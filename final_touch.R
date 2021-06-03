@@ -6,7 +6,7 @@ unlink("docs",T,T)
 shell("rename _site docs")# rename directory _site/ to docs
 # file.copy("index.Rmd","readme.md",overwrite = T)# copy index.Rmd (CV) to readme.md
 file.rename("index.pdf","cv_en_Phileas_Condemine.pdf")# copy index.Rmd (CV) to readme.md
-
+file.copy("docs/cv_en_Phileas_Condemine.pdf","cv_en_Phileas_Condemine.pdf",overwrite = T)
 
 system('git config --global user.email "phileas.condemine@gmail.com"')
 system('git config --global user.name "Phileas Condemine"')
