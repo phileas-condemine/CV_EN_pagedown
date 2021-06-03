@@ -1,5 +1,5 @@
 ---
-title: "Philéas CONDEMINE"
+title: "Phileas CONDEMINE"
 author: Phileas Condemine
 date: "`r Sys.Date()`"
 output:
@@ -10,14 +10,14 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-# knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 
 Aside
 ================================================================================
 
-<i class="fa fa-download"></i> [Télécharger en PDF sur github](https://github.com/phileas-condemine/CV_FR_pagedown/raw/master/index.pdf)
+<i class="fa fa-download"></i> [Download the PDF on Github](https://github.com/phileas-condemine/CV_EN_pagedown/raw/master/cv_en_Phileas_Condemine.pdf)
 
 ![Photo](https://avatars.githubusercontent.com/u/24205662?s=460&u=656ddfd4c840d9eb34e4aeb83baa24d0e0ba599f&v=4){width=80%}
 
@@ -34,51 +34,51 @@ Contact {#contact}
 - <i class="fa fa-phone"></i> +33 643 549 576
 
 
-Compétences {#skills}
+Skills {#skills}
 --------------------------------------------------------------------------------
 
-- **Expert en R**, **avancé en Python** et **confirmé en SQL & NoSQL**.
+- **R Expert**, **Advanced knowledge of Python** and **Good knowledge of SQL & NoSQL - Spark in particular**.
 
-- Machine-learning **GLM, XGBoost/GBM, SVM** pour la résolution de problèmes en assurance : tarification, gestion de sinistres, fraude, attrition.
+- Machine-learning **GLM, XGBoost/GBM, SVM** for insurance and general problem solving : pricing, claims handling, fraud, churn, attrition.
 
-- Traitement de données massives en **Python**-**PySpark** mais aussi **R-data.table** quand ça suffit.
+- Handling Big Data with **Python**+**PySpark** but also **R-data.table** when it's enough.
 
-- Deep-learning en **Python** - **Pytorch & Keras** pour la modélisation de séquences de soins ou le traitement du langage naturel.
+- Deep-learning with **Python** + **Pytorch & Keras** to model health sequences with NLP-like approach.
 
-- Dashboard et outils intéractifs avec **R-Shiny**, leaflet, plotly, DT, rhandsontable...
+- Dashboard & interactive tailored tools with **R-Shiny**, leaflet, plotly, DT, rhandsontable...
 
 
 
 Main
 ================================================================================
 
-Philéas CONDEMINE {#title}
+Phileas CONDEMINE {#title}
 --------------------------------------------------------------------------------
 
-### Actuellement à la recherche d'une nouvelle aventure Data après :
+### Currently looking a new DatAdventure :
 
-3,5 ans au centre d'excellence technique d'AXA Global P&C : amélioration des techniques de **tarification** et de **gestion des sinistres** avec le *machine learning* et l'apport de données externes.
+3.5 years at Technical Excellence Center AXA Global P&C: Improving **pricing** techniques & using *machine learning* techniques for **claims handling**. Also getting & leveraging **external data** for better pricing, user-experience & claims management.
 
-3 ans au ministère de la Santé pour modéliser les **parcours de soins**, traiter les données colossales de l'assurance maladie et mettre en place des outils d'aide à la décision au **centre de crise sanitaire CoViD-19**.
+3 years at French Ministry of Health : Modelling **Health Sequences**, handling **Big Data** from the Public Health Insurance (covers 100% of 67M french citizens). Also tailoring tools to gather & visualize data for decision making during CoViD-19 crisis.
 
 
-Expériences professionnelles {data-icon=suitcase}
+Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### *Senior Data Scientist* et Entrepreneur d'Intérêt Général (EIG)
+### *Senior Data Scientist* & ([EIG](https://entrepreneur-interet-general.etalab.gouv.fr/))
 
-![Ministère de la Santé](img/marianne.jpg){width=10%} DREES et centre crise sanitaire CoViD-19
+![Ministère de la Santé](img/marianne.jpg){width=10%} Statistical Departement at Ministry of Health
 
 Paris, France
 
 2018-2021
 
-- **Modélisation de séquences de soins** pour la prédiction de pathologies et la détection de ruptures dans les séquences de soins.
-- Classification par [**active-learning**](https://github.com/phileas-condemine/tuto_tagging_indicateurs) et [**diffusion grand public**](https://drees.shinyapps.io/Cartographie_des_indicateurs) d'indicateurs de santé.
-- Outil pour les ARS : [**saisie interactive**](https://phileas-condemine.github.io/Zonage_ARS/) du zonage des professions de santé
-- Contribution au **centre de crise sanitaire CoViD-19** : collecte de données auprès [des hôpitaux - respirateurs](https://respirateurs.fabrique.social.gouv.fr/) et [des laboratoires - tests, réactifs, centre de dépistage, EPI](https://laboratoires.fabrique.social.gouv.fr/). Ainsi que la mise en place de tableaux de bord statistiques sur les données d'hospitalisation SI-VIC.
-- Production d'*open-data* sur les données hospitalières du PMSI avec implémentation de contraintes d'**anonymisation** k-anonymat et l-diversité hiérarchique.
-- Mise en place de **formations** à **R et Shiny** pour les agents de la DREES puis accompagnement de projets de statistiques et dataviz.
+- **Modelling Health Sequences** to predict diseases outcome and detect disruption in the treatment course.
+- Classification with [**active-learning**](https://github.com/phileas-condemine/tuto_tagging_indicateurs) & [**General Public WebApp**](https://drees.shinyapps.io/Cartographie_des_indicateurs) to find Health-focused statistics.
+- Tools for regional health agencies : [**Interactive Decision Making Tool**](https://phileas-condemine.github.io/Zonage_ARS/) to help experts elaborate Zoning for health professionals.
+- Tech Lead at **CoViD-19 crisis center** : develop webapps to gather critical information from [hospitals - ventilators](https://respirateurs.fabrique.social.gouv.fr/) and [BioLabs - supplies, tests results, screening centers location & general info](https://laboratoires.fabrique.social.gouv.fr/). Share data to stakeholders through dashboards & make advanced statistics from full hospital (SIVIC) & screening (SIDEP) data.
+- Produce *open-data* on hospital admissions data (PMSI) involving **privacy constraints** k-**anonymity** & hierarchical l-diversity.
+
 
 ### *Actuarial Data Scientist*
 
@@ -88,132 +88,122 @@ Paris, France
 
 2014-2017
 
-- [**Innovation dans la tarification**](https://docs.google.com/presentation/d/1ObT00LWOOOI2PYufPMII10ciJOTKReESgegVQ-F4yno/edit?usp=sharing) en assurance auto et habitation en contribuant à l'amélioration des zoniers, véhiculiers, modèles de fréquence, coût moyen et propension avec des techniques de *boosting* et d'intreprétation du *machine-learning*.
-- Analyse du **coût des sinistres** (*Claim Cost Analyser*) avec prédiction du coût théorique de réparation d'un véhicule pour *scorer* les garages en tenant compte du *case-mix*. Le PoC a été réalisé avec AXA-Spain et déployé en Espagne, Italie, France avec l'appui des *Data Engineers* locaux.
-- Utilisation de données textuelles pour la [gestion des sinistres litigieux](https://github.com/phileas-condemine/bodily_injury_atp).
-- [Modèle de risque des routes](http://www.ressources-actuarielles.net/C12574E200674F5B/0/AC55A21EEC4304E6C1257FB9001CA631) basé sur les données GPS des utilisateurs (télématiques).
-- Mise en place de hackathons et formations à la data science pour les actuaires.
+- [**P&C pricing innovation**](https://docs.google.com/presentation/d/1ObT00LWOOOI2PYufPMII10ciJOTKReESgegVQ-F4yno/edit?usp=sharing) for both housing & car insurance through zoning, vehicle classification, severity/frequency/propensity modelling with **gradient boosting** techniques transferred to GLM using  **ML-interpretation** techniques.
+- Build a **Claim Cost Analyzer** by predicting the theoretical cost of a claim - for a given vehicle & crash - to **score** a car repairer given their own case-mix.  PoC with AXA-Spain, deployed in Spain then adapted to Italy & France with local **Data Engineering teams**.
+- Leveraging French Court Decision Open-Data through **Natural Language Processing** to better handle [bodily injury cases](https://github.com/phileas-condemine/bodily_injury_atp) and assess contentious risk.
+- [Roads own-risk assessement](http://www.ressources-actuarielles.net/C12574E200674F5B/0/AC55A21EEC4304E6C1257FB9001CA631) based on GPS telematics data.
 
-### Mémoire d'actuariat
+### Actuarial Thesis
 
 ![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=10%} AXA Belgium
 
-Télétravail
+Remote
 
 2014
 
-Exploitation des données de tarification du portefeuille auto d'AXA Belgium pour mesurer l'impact *ceteris paribus* de l'âge sur le risque d'accident de la route avec des techniques économétriques.
-[Sinistralité des conducteurs âgés](http://www.ressources-actuarielles.net/C12574E200674F5B/0/A7CCC7ACB732ADB3C1257D8900418A17)
-Le mémoire était finaliste du prix SCOR.
+Handle 1M contracts pricing-database to measure *ceteris paribus* impact of eldering on car crash severity & frequency using econometrics.
+[Elderly drivers own-risk assessment](http://www.ressources-actuarielles.net/C12574E200674F5B/0/A7CCC7ACB732ADB3C1257D8900418A17)
+Final selection for SCOR prize.
 
-### Stages de césure
+### Long Internships
 
-SCOR - Exane
+SCOR P&C, then Exane Derivatives.
 
 Paris, France
 
 2012-2013
 
-6 mois sur la tarification de Cat-Bonds par techniques MCMC 
-6 mois en structuration de produits dérivés et construction d'un indice synthétique basé sur un panier d'actions optimal
+6 month pricing CAT-Bonds with MCMC techniques
+6 month building a synthetic index as a dynamic basket of stocks & bonds
 
 
-Formation {data-icon=graduation-cap data-concise=true}
+Training {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### *Deep learning*
 
-Découverte, approfondissement et mise en pratique des techniques de *deep learning*.
+Advanced training & hands-on projects
 
 [fast.ai](https://www.fast.ai/), [datascientest](https://datascientest.com/), [deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 
 2017-2020
 
-Formation au *deep learning* : vision par ordinateur et traitement du langage naturel. Entraînement de modèle *from-scratch* mais surtout *transfer-learning* / *fine-tuning*. Application aux séquences de soins vues comme un pseudo-langage : LSTM et `r emo::ji("hug")` transformers.
+*deep learning* training : Computer Vision and Natural Language Understanding. Mainly use *transfer-learning* / *fine-tuning*. But also train models *from scratch* for Health Sequences Modelling using pseudo-NLP techniques: LSTM & `r emo::ji("hug")` transformers.
 
 
 ### [Spark & Scala](https://fr.coursera.org/specializations/scala)
 
-Formation au langage Scala et à la programmation avec Spark & PySpark
+Scala Programming + Spark applications
 
-Coursera par Martin Odersky & Heather Miller
+Coursera by Martin Odersky & Heather Miller
 
 2019
 
-En parallèle de ce MOOC Coursera, je mettais en pratique sur le *High Performance Computer* de la DREES avec les données du SNDS.
+While following this MOOC, I used pySpark on a daily basis on a *High Performance Computer* at work to handle National Health Claims Data (SNDS).
 
 
 
-### Formation aux langages web
+### Web Development
 
-Introduction à HTML, CSS, Javascript & JQuery.
+Introduction to HTML, CSS, Javascript & JQuery.
 
 CodeSchool.com
 
 2016
 
-Formation avec projet sur la pile logiciel *Stack* MEAN : Mongo, Express, Angular & Node. Développement d'une API de tarification avec Express. 
-Par la suite, cette connaissance des langages web m'a beaucoup aidé à développer des applications R-Shiny.
+Training + application using *MEAN-Stack* : Mongo, Express, Angular & Node. Develop a fast-quote API for Housing Insurance with Express. 
+This training has been very helpful to develop advanced Data-WebApps with R-Shiny. 
 
-### *Introduction à la data science* 
+### *Introduction to data science* 
 
-Apprentissage supervisé et non supervisé
+Main techniques of supervised & unsupervised learning.
 
-Coursera par Bill Howe
+Coursera by Bill Howe
 
 2014
 
-*Support Vector Machine*, *Gradient Boosting*, *Random Forests*, *k-means* et classification hierachique.
+*Support Vector Machine*, *Gradient Boosting*, *Random Forests*, *k-means* & hierarchical clustering.
 
 
 ### ENSAE Paris - IP Paris
 
-Cursus ingénieur
+MSc Actuarial Science & Data Science
 
 Paris, France
 
 2010-2014
 
-Spécialisation actuariat et cours de **data science** et **big data** en parallèle
+Learning both **Data-Science** + **Big-Data** techniques & applications to **Actuarial Sciences**
 
 
 
 
-Enseignement {data-icon=chalkboard-teacher}
+Teaching {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### [Formation au *text-mining*](https://docs.google.com/presentation/d/1tXlSRL-lZW5L10xbssmzunB-EXl7tTaw9iy3RSscL-o/edit?usp=sharing)
+### *Data Science Teacher*
 
-Techniques "classiques" de traitement du texte : tokenisation, lemmatisation, vectorisation, *embedding*.
+![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=5%} Data-Science for Actuaries &  ![GENES](https://upload.wikimedia.org/wikipedia/commons/1/11/LOGO-ENSAE-2.png){width=10%} Data Science Certification
 
-CEPE ENSAE/ENSAI
+Paris, France
 
-2018-2020
+2014-2020
 
-### [Formation au *machine learning*](https://docs.google.com/presentation/d/11TAeSxZisurpEHFow9vyJxRz_QfZlE6UQKE5dIfu5QM/edit?usp=sharing)
+- [**Natural Language Processing**](https://docs.google.com/presentation/d/1tXlSRL-lZW5L10xbssmzunB-EXl7tTaw9iy3RSscL-o/edit?usp=sharing) & Text-mining techniques
+- [**Machine Learning**](https://docs.google.com/presentation/d/11TAeSxZisurpEHFow9vyJxRz_QfZlE6UQKE5dIfu5QM/edit?usp=sharing) for structured data : Gradient Boosting & Support Vector Machine
+- **Data Science Hands-On** with R, data.table, xgboost, glmnet & liblinear...
+- **Build Interactive Apps** with R + Shiny
+- **Data Science for Actuaries** (DS4A): 5-days training with hands-on & 1-day hackathon to teach AXA actuaries Data-Science Techniques that can help them better solve Insurance-related problems. The Theoretical Training was given by [Arthur Charpentier](https://freakonometrics.github.io/).
 
-Techniques de classification pour des données structurées : *SVM*, *Gradient Boosting*, *Random Forests*
-
-CEPE ENSAE/ENSAI
-
-2018-2020
-
-### Data Science for Actuaries DS4A
-
-Formation d'actuaires du groupe AXA aux techniques de machine learning, [text mining](https://github.com/phileas-condemine/text-mining), récupération de données externes et cartographie au cours de plusieurs Bootcamp d'une semaine organisés par mon équipe chez AXA Global P&C. Formation théorique avec la contribution d'Arthur Charpentier.
-
-DS4A AGPC
-
-2014-2017
 
 ::: aside 
 
-A propos de ce CV {#disclaimer}
+About this resume {#disclaimer}
 --------------------------------------------------------------------------------
 
-Ce CV a été généré grâce au package R [**pagedown**](https://github.com/rstudio/pagedown).
+This resume was built with `r emo::ji("love")` using R [**pagedown**](https://github.com/rstudio/pagedown).
 
-Dernière mise à jour `r Sys.Date()`.
+Last update `r Sys.Date()`.
 
 :::
 
@@ -221,15 +211,24 @@ Dernière mise à jour `r Sys.Date()`.
 Bside {.aside .extra-sidebar}
 ================================================================================
 
-Autres projets
+Other Projects
 --------------------------------------------------------------------------------
 
-Participation à des compétitions [Kaggle](https://www.kaggle.com/arifelk) : AXA "Telematics", Otto "Product Classification", Quora "Deduplication", West Nile Virus "Mosquito detection".
+I love to hack new data and therefore participated in many hackathons & Kaggle competitions
 
-Création d'un robot 4-roues autonome programmé avec Arduino.
+[Kaggle](https://www.kaggle.com/arifelk) : 
+**AXA** "Telematics", 
+**Otto** "Product Classification", 
+**Quora** "Deduplication", 
+West Nile Virus "Mosquito detection".
 
-Participation à des hackathons AXA "Chatbot de fast-quote API.AI", [APHP](https://www.aphp.fr/contenu/dat-icu-un-datathon-organise-les-20-et-21-janvier-2018-pour-rapprocher-les-reanimateurs-et) "Anomalies de prise en charge nocturne pour soins intensifs", ARS-IdF "Facteurs environnementaux d'augmentation des passages aux urgences". 
+Hackathons : 
+**AXA** "Chatbot for fast-quote with API.AI", 
+[**APHP**](https://www.aphp.fr/contenu/dat-icu-un-datathon-organise-les-20-et-21-janvier-2018-pour-rapprocher-les-reanimateurs-et) "Night-time-Treatment Outliers Detection in Intensive Care", 
+**ARS-IdF** "Environmental Factors of ER admissions". 
 
-Contribution à la [Bulloterie](https://github.com/phileas-condemine/bulloterie) - un outil communautaire d'identification d'experts et curieux dans toutes sortes de domaines. 
+Programming a 4-wheel autonomous mini-car with Arduino.
+
+Contribution to Open Project [Bulloterie](https://github.com/phileas-condemine/bulloterie) - a Low-Tech Tool that helps link potential teachers & learners in a given community. 
 
 

@@ -1,6 +1,6 @@
-name: "CV Philéas Condemine"
+name: "CV Phileas Condemine"
 navbar:
-  title: "CV Philéas Condemine"
+  title: "CV Phileas Condemine"
   left:
     - text: "CV"
       href: index.html
