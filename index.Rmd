@@ -43,9 +43,9 @@ Skills {#skills}
 
 - Handling Big Data with **Python**+**PySpark** but also **R-data.table** when it's enough.
 
-- Deep-learning with **Python** + **Pytorch & Keras** to model health sequences with NLP-like approach.
+- Deep-learning for NLP & Health-sequences-modelling with **Python** : **Pytorch,  Keras, HuggingFace Transformers**
 
-- Dashboard & interactive tailored tools with **R-Shiny**, leaflet, plotly, DT, rhandsontable...
+- Dashboard, annotation, cluster interpretation and other tailored tools with **R-Shiny**, leaflet, plotly, DT...
 
 
 
@@ -55,15 +55,27 @@ Main
 Phileas CONDEMINE {#title}
 --------------------------------------------------------------------------------
 
-### Currently looking a new DatAdventure :
+### Lead Data Scientist
+
+Covéa Data Science Team : NLP, ML/Deep-Learning in Production with Azure + DataBricks
 
 3.5 years at Technical Excellence Center AXA Global P&C: Improving **pricing** techniques & using *machine learning* techniques for **claims handling**. Also getting & leveraging **external data** for better pricing, user-experience & claims management.
 
-3 years at French Ministry of Health : Modelling **Health Sequences**, handling **Big Data** from the Public Health Insurance (covers 100% of 67M french citizens). Also tailoring tools to gather & visualize data for decision making during CoViD-19 crisis.
+3.5 years at French Ministry of Health : Modelling **Health Sequences**, handling **Big Data** from the Public Health Insurance (covers 100% of 67M french citizens). Also tailoring tools to gather & visualize data for decision making during CoViD-19 crisis.
 
 
 Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### *Lead Data Scientist NLP*
+
+![Covéa](img/covea.jpg){width=10%} Data Science Internal Consulting Team
+
+Paris, France
+
+2021-Now
+
+- Multiple **NLP** projects **in Production** Tackling Labelling, **Annotation**, **Monitoring**, **MultiLabel Topic Classification**, **Sentiment Analysis**, Anonymization using fine-tuned RoBERTa-like **Transformers with HuggingFace** with **Azure + Databricks**.
 
 ### *Senior Data Scientist* & ([EIG](https://entrepreneur-interet-general.etalab.gouv.fr/))
 
