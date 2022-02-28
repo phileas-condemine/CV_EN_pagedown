@@ -1,4 +1,6 @@
 name: "CV Phileas Condemine"
+output_dir: "docs"
+description: "Professional Resume focused on education and experiences Philéas Condemine"
 navbar:
   title: "CV Phileas Condemine"
   left:

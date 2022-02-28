@@ -1,13 +1,15 @@
 ---
 title: "Phileas CONDEMINE"
+name: "CV Phileas Condemine"
 author: Phileas Condemine
+description: "A Professional Resume focused on Experiences & Education"
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     css: 
       - override.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
-      - resume               # DEFAULT FILE
-    # set it to true for a self-contained HTML page but it'll take longer to render
+      - resume               # DEFAULT RESUME TEMPLATE
+    # set it to true for a self-contained HTML page but it'll take longer to render on the browser
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
 knit: pagedown::chrome_print
