@@ -6,6 +6,8 @@ description: "A Professional Resume focused on Experiences & Education"
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
+    include:
+      in_header: header.html
     css: 
       - override.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
       - resume               # DEFAULT RESUME TEMPLATE
@@ -43,7 +45,7 @@ Skills {#skills}
 
 - Machine-learning **GLM, XGBoost/GBM, SVM** for insurance and general problem solving : pricing, claims handling, fraud, churn, attrition.
 
-- Handling Big Data with **Python**+**PySpark** but also **R-data.table** when it's enough.
+- Handling Big Data with **Spark** & medium Data with **R-data.table**.
 
 - Deep-learning for NLP & Health-sequences-modelling with **Python** : **Pytorch,  Keras, HuggingFace Transformers**
 
@@ -59,7 +61,7 @@ Phileas CONDEMINE {#title}
 
 ### Lead Data Scientist
 
-Covéa Data Science Team : NLP, ML/Deep-Learning in Production with Azure + DataBricks
+Covéa Data Science Team since Oct. 21 : NLP, ML/Deep-Learning in Production with Azure + DataBricks
 
 3.5 years at Technical Excellence Center AXA Global P&C: Improving **pricing** techniques & using *machine learning* techniques for **claims handling**. Also getting & leveraging **external data** for better pricing, user-experience & claims management.
 
@@ -77,7 +79,7 @@ Paris, France
 
 2021-Now
 
-- Multiple **NLP** projects **in Production** Tackling Labelling, **Annotation**, **Monitoring**, **MultiLabel Topic Classification**, **Sentiment Analysis**, Anonymization using fine-tuned RoBERTa-like **Transformers with HuggingFace** with **Azure + Databricks**.
+- Multiple **NLP** projects **in Production** Tackling Labelling, **Annotation**, **Monitoring**, **MultiLabel Topic Classification**, **Sentiment Analysis** and Anonymization using fine-tuned RoBERTa-like **Transformers with HuggingFace** with **Azure + Databricks**.
 
 ### *Senior Data Scientist* & ([EIG](https://entrepreneur-interet-general.etalab.gouv.fr/))
 
