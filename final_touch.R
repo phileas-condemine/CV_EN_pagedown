@@ -17,7 +17,8 @@ system(sprintf('git commit -m "update %s"',Sys.Date()))
 system("git push origin master")
 
 print("
-to publish the website on netim (phileascondemine.com),
-open filezilla, connect to the hosting server,
-copy the docs/ files in the public_www/ folder on the remote.
+La publication sur netim se fait sur le projet FR pour que la page
+d'accueil soit la version FR et qu'on propose un lien vers la version EN
+Ce projet permet néanmoins de mettre à jour le CV en PDF et le publier sur Github
+pour permettre le téléchargement du PDF depuis le site
       ")

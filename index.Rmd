@@ -21,6 +21,9 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
+[Voir en français](https://phileascondemine.com/)
+
+
 <i class="fa fa-download"></i> [Download the PDF on Github](https://github.com/phileas-condemine/CV_EN_pagedown/raw/master/cv_en_Phileas_Condemine.pdf)
 
 ![Photo](https://avatars.githubusercontent.com/u/24205662?s=460&u=656ddfd4c840d9eb34e4aeb83baa24d0e0ba599f&v=4){width=80%}
@@ -79,7 +82,7 @@ Paris, France
 
 2021-Now
 
-- Multiple **NLP** projects **in Production** Tackling Labelling, **Annotation**, **Monitoring**, **MultiLabel Topic Classification**, **Sentiment Analysis** and Anonymization using fine-tuned RoBERTa-like **Transformers with HuggingFace** with **Azure + Databricks**.
+- Multiple **NLP** projects **in Production** Tackling Labelling, **Annotation**, Model & Data **Monitoring** including **Data Drift detection**, **MultiLabel Topic Classification**, **Sentiment Analysis** and Anonymization using fine-tuned RoBERTa-like **Transformers with HuggingFace** with **Azure + Databricks**.
 
 ### *Senior Data Scientist* & ([EIG](https://entrepreneur-interet-general.etalab.gouv.fr/))
 
