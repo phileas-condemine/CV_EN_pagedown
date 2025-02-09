@@ -84,14 +84,14 @@ Paris, France
 
 2021-Now
 
-- **VOX.IA** : Client Verbatim Analysis. [**AI Award-Winning Project**](https://www.covea.com/fr/actualites/cas-dor-du-digital-2023-covea-recompense-son-outil-danalyse-avis-clients-base)
+- **VOX.IA** : Client Verbatim Analysis. [**AI Award-Winning Project**](https://www.covea.com/fr/actualites/cas-dor-du-digital-2023-covea-recompense-son-outil-danalyse-avis-clients-base).
 - **NetMessages** : Offer real-time selfcare offer to the client with **Frugal AI**.
 - **JudiCible** : Accelerate Claim Management with AI & Gen-AI Hybrid approach.
 - **AI in Production** : **Annotation**, **Finetuning**, **Deployment**, **Drift-Monitoring**.
-- **Publication** on [Medium COV&IA](https://medium.com/@COVEIA)
+- **Publication** on [Medium COV&IA](https://medium.com/@COVEIA).
 
 
-### *Senior Data Scientist* & ([EIG](https://entrepreneur-interet-general.etalab.gouv.fr/))
+### Senior Data Scientist & ([EIG](https://entrepreneur-interet-general.etalab.gouv.fr/))
 
 ![Ministère de la Santé](img/marianne.jpg){width=10%} **Ministry of Health**
 
@@ -102,12 +102,12 @@ Paris, France
 - **Modelling Health Sequences** to predict diseases outcome and detect disruption.
 - **Classification** with [**active-learning**](https://github.com/phileas-condemine/tuto_tagging_indicateurs) & [**General Public WebApp**](https://drees.shinyapps.io/Cartographie_des_indicateurs) to find Health-focused statistics.
 - Tools for regional health agencies : [**Interactive Decision Making Tool**](https://phileas-condemine.github.io/Zonage_ARS/) to help experts elaborate Zoning for health professionals.
-- Tech Lead at **CoViD-19 crisis center** : develop webapps to gather critical information from [hospitals](https://respirateurs.fabrique.social.gouv.fr/) and [labs](https://laboratoires.fabrique.social.gouv.fr/). 
+- Tech Lead at **CoViD-19 crisis center** : Develop webapps to gather critical information from [hospitals](https://respirateurs.fabrique.social.gouv.fr/) and [labs](https://laboratoires.fabrique.social.gouv.fr/). 
 - **Workflow** to build **CoViD-19 Indicators** with **SIDep, SIVic, VacSI**.
 - Produce *open-data* with anonymisation : k-**anonymity** & hierarchical l-diversity.
 
 
-### *Actuarial Data Scientist*
+### Actuarial Data Scientist
 
 ![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=10%} **AXA** Global P&C
 
@@ -138,7 +138,7 @@ Paris, France
 
 2013
 
-6 month building a synthetic index as a dynamic basket of stocks & bonds
+6 month building a synthetic index as a dynamic basket of stocks & bonds.
 
 ### CAT-Bonds Pricing Intern (6 months)
 
@@ -148,7 +148,7 @@ Paris, France
 
 2012
 
-Pricing CAT-Bonds using Monte-Carlo Markov Chains MCMC
+Pricing CAT-Bonds using Monte-Carlo Markov Chains MCMC.
 
 
 
@@ -157,7 +157,7 @@ Training {data-icon=graduation-cap data-concise=true}
 
 ### Generative AI
 
-LLM, RAG, Finetuning, Prompt-engineering 
+LLM, RAG, Finetuning, Prompt-engineering.
 
 [deeplearning.ai](https://www.deeplearning.ai/courses/)
 
@@ -166,7 +166,7 @@ LLM, RAG, Finetuning, Prompt-engineering
 
 ### Deep learning
 
-Advanced training & hands-on projects
+Advanced training & hands-on projects.
 
 [fast.ai](https://www.fast.ai/), [datascientest](https://datascientest.com/), [deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 
@@ -175,7 +175,7 @@ Advanced training & hands-on projects
 
 ### [Spark & Scala](https://fr.coursera.org/specializations/scala)
 
-Scala Programming + Spark applications
+Scala Programming + Spark applications.
 
 Coursera by Martin Odersky & Heather Miller
 
@@ -190,7 +190,7 @@ CodeSchool.com
 
 2016
 
-### *Introduction to data science* 
+### Introduction to data science
 
 Main techniques of supervised & unsupervised learning : **SVM**, **Gradient-Boosting**, **Random Forests**, **k-means** etc.
 
@@ -219,7 +219,7 @@ COVEA
 
 2023-2025
 
-### *Data Science Teacher*
+### Data Science Teacher
 
 ![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=5%} Data-Science for Actuaries &  ![GENES](https://upload.wikimedia.org/wikipedia/commons/1/11/LOGO-ENSAE-2.png){width=10%} Data Science Certification
 
@@ -227,10 +227,10 @@ Paris, France
 
 2014-2020
 
-- [**Natural Language Processing**](https://docs.google.com/presentation/d/1tXlSRL-lZW5L10xbssmzunB-EXl7tTaw9iy3RSscL-o/edit?usp=sharing) & Text-mining techniques
-- [**Machine Learning**](https://docs.google.com/presentation/d/11TAeSxZisurpEHFow9vyJxRz_QfZlE6UQKE5dIfu5QM/edit?usp=sharing) for structured data : Gradient Boosting & Support Vector Machine
+- [**Natural Language Processing**](https://docs.google.com/presentation/d/1tXlSRL-lZW5L10xbssmzunB-EXl7tTaw9iy3RSscL-o/edit?usp=sharing) & Text-mining techniques.
+- [**Machine Learning**](https://docs.google.com/presentation/d/11TAeSxZisurpEHFow9vyJxRz_QfZlE6UQKE5dIfu5QM/edit?usp=sharing) for structured data : Gradient Boosting & Support Vector Machine.
 - **Data Science Hands-On** with R, data.table, xgboost, glmnet & liblinear...
-- **Build Interactive Apps** with R + Shiny
+- **Build Interactive Apps** with R + Shiny.
 - **Data Science for Actuaries** (DS4A): 5-days training with hands-on & 1-day hackathon to teach AXA actuaries Data-Science Techniques that can help them better solve Insurance-related problems. The Theoretical Training was given by [Arthur Charpentier](https://freakonometrics.github.io/).
 
 
@@ -252,7 +252,7 @@ Bside {.aside .extra-sidebar}
 Other Projects
 --------------------------------------------------------------------------------
 
-I love to hack new data and therefore participated in many Hackathons & Kaggle competitions
+I love to hack new data and therefore participated in many Hackathons & Kaggle competitions.
 
 [Kaggle](https://www.kaggle.com/arifelk) : 
 **AXA** "Telematics", 
@@ -260,15 +260,15 @@ I love to hack new data and therefore participated in many Hackathons & Kaggle c
 **Quora** "Deduplication", 
 West Nile Virus "Mosquito detection".
 
-**Hackathon** Gen-AI @ **COVEA** "SAS to Python with LLMs" (oct. 2024)
+**Hackathon** Gen-AI @ **COVEA** "SAS to Python with LLMs" (oct. 2024).
 
-**Hackathon** @ **ACPR** [**TechSprint Gen-AI** ](https://innovation.banque-france.fr/fr/challenges/challenge-acpr-banque-france-ia-generative-llm) (feb 2024)
+**Hackathon** @ **ACPR** [**TechSprint Gen-AI** ](https://innovation.banque-france.fr/fr/challenges/challenge-acpr-banque-france-ia-generative-llm) (feb 2024).
 
-**Hackathon Model Winner** @ **COVEA** "Churn Prediction and Mitigation" (2023)
+**Hackathon Model Winner** @ **COVEA** "Churn Prediction and Mitigation" (2023).
 
-**Hackathon** @ **AXA** "Chatbot for fast-quote with API.AI"
+**Hackathon** @ **AXA** "Chatbot for fast-quote with API.AI".
 
-**Hackathon** @ [**APHP**](https://www.aphp.fr/contenu/dat-icu-un-datathon-organise-les-20-et-21-janvier-2018-pour-rapprocher-les-reanimateurs-et) "Night-time-Treatment Outliers Detection in Intensive Care"
+**Hackathon** @ [**APHP**](https://www.aphp.fr/contenu/dat-icu-un-datathon-organise-les-20-et-21-janvier-2018-pour-rapprocher-les-reanimateurs-et) "Night-time-Treatment Outliers Detection in Intensive Care".
 
 **Hackathon** @ **ARS-IdF** "Environmental Factors of ER admissions".
 
