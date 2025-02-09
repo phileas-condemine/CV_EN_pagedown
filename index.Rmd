@@ -157,7 +157,9 @@ Training {data-icon=graduation-cap data-concise=true}
 
 ### Generative AI
 
-RAG, Finetuning, Prompt-engineering [deeplearning.ai](https://www.deeplearning.ai/courses/)
+LLM, RAG, Finetuning, Prompt-engineering 
+
+[deeplearning.ai](https://www.deeplearning.ai/courses/)
 
 2023-2024
 
