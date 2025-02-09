@@ -6,7 +6,7 @@ rmarkdown::clean_site(preview = FALSE)
 rmarkdown::render_site()# bizarre, ça ne crée plus le pdf, il faut aller dans index.Rmd et cliquer sur knit pour que le chrome_print fasse effet...
 # shell("rename _site docs")# rename directory _site/ to docs
 # file.copy("index.Rmd","readme.md",overwrite = T)# copy index.Rmd (CV) to readme.md
-# file.rename("index.pdf","cv_en_Phileas_Condemine.pdf")# copy index.Rmd (CV) to readme.md
+file.copy("index.pdf","cv_en_Phileas_Condemine.pdf",overwrite = TRUE)# copy index.Rmd (CV) to readme.md
 # file.copy("docs/cv_en_Phileas_Condemine.pdf","cv_en_Phileas_Condemine.pdf",overwrite = T)
 
 system('git config --global user.email "phileas.condemine@gmail.com"')
