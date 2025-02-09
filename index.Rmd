@@ -109,7 +109,7 @@ Paris, France
 
 ### Actuarial Data Scientist
 
-![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=10%} **AXA** Global P&C
+![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=10%} **AXA Global P&C**
 
 Paris, France
 
@@ -122,7 +122,7 @@ Paris, France
 
 ### Actuarial Thesis
 
-![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=10%} **AXA** Belgium
+![AXA](https://www.axa.fr/content/dam/logo/logo-axa.svg){width=10%} **AXA Belgium**
 
 Remote
 
