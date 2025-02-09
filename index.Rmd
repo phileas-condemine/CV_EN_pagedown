@@ -67,7 +67,7 @@ Phileas CONDEMINE {#title}
 
 2021-Now **Lead ML-Engineer NLP** @ **COVEA** : Delivering **Hybrid AI and Gen-AI** Efficient and **Frugal** Solutions in **Production** with **Azure**, **OpenAI** & **Databricks**.
 
-2028-2021 **Senior Data Scientist** @ **Ministère de la Santé** : Modelling **Health Sequences** with **Transformers**. Help **Data-driven** decision-making during **CoViD-19** crisis.
+2018-2021 **Senior Data Scientist** @ **Ministère de la Santé** : Modelling **Health Sequences** with **Transformers**. Help **Data-driven** decision-making during **CoViD-19** crisis.
 
 2014-2017 **Actuarial Data Scientist** @ **AXA** Global P&C : **pricing** and **claims handling** with **machine learning** and **external data**.
 
