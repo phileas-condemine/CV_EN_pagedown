@@ -130,19 +130,19 @@ Remote
 
 [Elderly drivers own-risk assessment](http://www.ressources-actuarielles.net/C12574E200674F5B/0/A7CCC7ACB732ADB3C1257D8900418A17) - **SCOR prize finalist**.
 
-### Structuration Intern (6 months)
+### Structuration Intern
 
-![Exane BNP Paribas](https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_Exane.jpg){width=15%} **Exane BNP Paribas**
+![Exane BNP Paribas](https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_Exane.jpg){width=15%} **Exane BNP Paribas** (6 months)
 
 Paris, France
 
 2013
 
-6 month building a synthetic index as a dynamic basket of stocks & bonds.
+Building a synthetic index as a dynamic basket of stocks & bonds.
 
-### CAT-Bonds Pricing Intern (6 months)
+### CAT-Bonds Pricing Intern
 
-![SCOR](https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo-scor.png){width=20%} **SCOR**
+![SCOR](https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo-scor.png){width=20%} **SCOR** (6 months)
 
 Paris, France
 
