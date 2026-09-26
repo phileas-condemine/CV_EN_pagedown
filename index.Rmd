@@ -65,7 +65,9 @@ Phileas CONDEMINE {#title}
 
 ### In short
 
-2021-Now **Lead ML-Engineer NLP** @ **COVEA** : Delivering **Hybrid AI and Gen-AI** Efficient and **Frugal** Solutions in **Production** with **Azure**, **OpenAI** & **Databricks**.
+2025–Present **Principal Data Scientist P&C** @ **SCOR**: Developing P&C use cases for AI Assistant, a GenAI-powered document extraction product; mentoring six P&C data scientists and collaborating with the product’s 20 contributors, as well as the technical and business teams building and using tools powered by AI Assistant.
+
+2021-2025 **Lead ML-Engineer NLP** @ **COVEA** : Delivering **Hybrid AI and Gen-AI** Efficient and **Frugal** Solutions in **Production** with **Azure**, **OpenAI** & **Databricks**.
 
 2018-2021 **Senior Data Scientist** @ **Ministère de la Santé** : Modelling **Health Sequences** with **Transformers**. Help **Data-driven** decision-making during **CoViD-19** crisis.
 
@@ -76,13 +78,29 @@ Phileas CONDEMINE {#title}
 Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Principal Data Scientist P&C
+
+![SCOR](https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo-scor.png){width=20%} **SCOR**
+
+Paris, France
+
+2025–Present
+
+Developing P&C use cases for [**AIssistant**](https://www.scor.com/fr/actualite/enhancing-underwriting-process-scors-ai-assistant), a document extraction product with around 20 contributors.
+
+- Provide technical leadership for six P&C data scientists through mentoring, merge request reviews, shared development practices and code reuse.
+- Collaborate with contributors across the product on shared features, including the migration from GPT-4.1 to GPT-5.4 and evaluation and observability tools. Work with the technical and business teams building and using applications powered by AIssistant.
+- Build an automated **feedback loop**: collect business users’ validations, evaluate extraction quality, improve prompts and post-processing, and validate changes.
+- Improve the reliability of LLM outputs through **structured outputs** validated with Pydantic; develop trace analysis and performance monitoring to support debugging.
+
+
 ### Lead ML-Engineer NLP
 
 ![Covéa](img/covea.jpg){width=20%} **COVEA** - AI Delivery
 
 Paris, France
 
-2021-Now
+2021-2025
 
 - **VOX.IA** : Client Verbatim Analysis. [**AI Award-Winning Project**](https://www.covea.com/fr/actualites/cas-dor-du-digital-2023-covea-recompense-son-outil-danalyse-avis-clients-base).
 - **NetMessages** : Offer real-time selfcare offer to the client with **Frugal AI**.
